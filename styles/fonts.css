@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'HeeboRegular';
+    src: url(/font/Heebo-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'HeeboMedium';
+    src: url(/font/Heebo-Medium.ttf);
+}
+
+@font-face {
+    font-family: 'HeeboBold';
+    src: url(/font/Heebo-Bold.ttf);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'HeeboBlack';
+    src: url(/font/Heebo-Black.ttf);
+}

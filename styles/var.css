@@ -1,0 +1,12 @@
+:root {
+    --f-bold: 'HeeboBold';
+    --f-reg: 'HeeboRegular';
+    --f-med: 'HeeboMedium';
+    --f-black: 'HeeboBlack';
+
+
+    --c-Dark: #21243D;
+    --c-Primary: #FF6464;
+    --c-Secondary: #00A8CC;
+    --c-Light: #8695A4;
+}
