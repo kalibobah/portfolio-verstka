@@ -4,6 +4,7 @@
 }
 
 .header-container {
+
   max-width: 1140px;
   margin: 0 auto;
   padding: 0 20px;
@@ -50,7 +51,7 @@
   color: #ff6464;
 }
 
-@media (max-width: 414px) {
+@media (max-width: 480px) {
   
     .header__burger_btn
     {
