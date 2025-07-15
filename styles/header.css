@@ -51,7 +51,7 @@
   color: #ff6464;
 }
 
-@media (max-width: 480px) {
+@media (max-width: 780px) {
   
     .header__burger_btn
     {
@@ -75,7 +75,8 @@
   }
 
   .header-items {
-    flex-direction: column;
-    gap: 20px;
-  }
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
 }
